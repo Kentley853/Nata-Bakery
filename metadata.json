@@ -2,5 +2,7 @@
   "name": "NATA Business Command Center",
   "description": "Demonstration business command center by Droppfloww Systems for NATA Cake and Cookies, unifying orders, production, payments, and AI receptionist workflows.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
